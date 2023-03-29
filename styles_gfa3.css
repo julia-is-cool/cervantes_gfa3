@@ -1,0 +1,27 @@
+#body{
+	margin-bottom: 50px;
+}
+.card-header{
+	background-color: #ffcad4;
+}
+.card-body{
+	background-color: #fffff0;
+}
+.card-footer{
+	background-color: #ffcad4;
+}
+h1{
+	margin-top: 20px;
+	text-align: center;
+	color: #800000;
+}
+p{
+	text-align: center;;
+}
+#box{
+	text-align: center;
+}
+#random{
+	text-align: center;
+	margin-bottom: 20px;
+}
